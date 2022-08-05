@@ -1,0 +1,6 @@
+This project is about to create a strong password. After giving length of your password it wil give you strong pass word..
+
+
+Output:
+Enter Lenght of Password,You want to create:10
+Password: Ii3uWCb%O4
