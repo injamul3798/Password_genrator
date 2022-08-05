@@ -12,8 +12,14 @@ pass_word = "abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$
 password = "".join(random.sample(pass_word,passwordlen))
 
 #Now lets see the password
-print(password)
-                
+print("Password: "password)
+
+
+'''Output:
+
+Enter Lenght of Password,You want to create:10
+Password: Ii3uWCb%O4
+                '''
         
 
 
